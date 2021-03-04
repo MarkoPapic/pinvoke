@@ -73,6 +73,10 @@ Here is the content of the `.csproj` file for `C#` project:
 
 Explicitly build for `x86` or `x64`. The `Any CPU` configuration can lead to a mismatch between the platforms.
 
+### 4. Enable unmanaged code debugging
+
+Go it `CsharpClient` project properties and in the `Debug` pane, check the "_Enable native code debugging_" option.
+
 
 ## Steps that need to be done
 
