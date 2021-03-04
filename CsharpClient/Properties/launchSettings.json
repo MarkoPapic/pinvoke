@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsharpClient": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
